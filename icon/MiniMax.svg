@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="100%" height="100%">
+  <defs>
+    <linearGradient id="minimaxGradient" x1="26" y1="0" x2="474" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#B72B7C" />
+      <stop offset="33%" stop-color="#E1385D" />
+      <stop offset="66%" stop-color="#F06247" />
+      <stop offset="100%" stop-color="#FA9450" />
+    </linearGradient>
+  </defs>
+  
+  <g stroke="url(#minimaxGradient)" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    
+    <path d="M 26 230 
+             L 26 280 A 28 28 0 0 0 82 280 
+             L 82 170 A 28 28 0 0 1 138 170 
+             L 138 390 A 28 28 0 0 0 194 390 
+             L 194 100 A 28 28 0 0 1 250 100 
+             L 250 290" />
+             
+    <path d="M 250 345 
+             L 250 360 A 28 28 0 0 0 306 360 
+             L 306 140 A 28 28 0 0 1 362 140 
+             L 362 330 A 28 28 0 0 0 418 330 
+             L 418 190 A 28 28 0 0 1 474 190 
+             L 474 280" />
+  </g>
+</svg>
